@@ -17,3 +17,8 @@ Learning theory
   large margins
   
 Reinforcement learning and adaptive control. 
+
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
