@@ -1,4 +1,4 @@
-Topics include: 
+# Topics include:  #
 
 # Supervised learning #
   * generative/discriminative learning, 
@@ -12,8 +12,8 @@ Topics include:
   * kernel methods
   
 # Learning theory #
-  bias/variance tradeoffs; 
-  VC theory; 
-  large margins
+  * bias/variance tradeoffs,
+  * VC theory,
+  * large margins
   
 # Reinforcement learning and adaptive control #
